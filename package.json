@@ -1,0 +1,19 @@
+{
+  "name": "bubble-tea-chatbot",
+  "version": "1.0.0",
+  "description": "作業1：手搖飲推薦達人（ChatManager + 對話記憶）",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.4.3",
+    "dotenv": "^17.4.2",
+    "lowdb": "^7.0.1",
+    "openai": "^6.38.0"
+  }
+}
