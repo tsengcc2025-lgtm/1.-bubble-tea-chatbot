@@ -1,13 +1,5 @@
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/tsengcc2025-lgtm/1.-bubble-tea-chatbot)
 
-❯ npm install && npm start
-
-up to date in 226ms
-
-5 packages are looking for funding
-  run `npm fund` for details
-
-> bubble-tea-chatbot@1.0.0 start
 > node main.js
 
 手搖飲推薦達人 — 輸入 exit 結束
